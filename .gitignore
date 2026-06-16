@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+intellisecure_db.db
+.vscode/
